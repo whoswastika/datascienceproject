@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Admin/OneDrive/Desktop/MLOPS/datascienceproject/mlruns/501437050513722180/88fef99afd654b139172d1053ffa835e/artifacts
+end_time: 1754982358643
+entry_point_name: ''
+experiment_id: '501437050513722180'
+lifecycle_stage: active
+run_id: 88fef99afd654b139172d1053ffa835e
+run_name: stately-lamb-36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754982095403
+status: 4
+tags: []
+user_id: whoswastika
