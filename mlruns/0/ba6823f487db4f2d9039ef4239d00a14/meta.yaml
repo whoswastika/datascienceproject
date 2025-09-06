@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Admin/OneDrive/Desktop/MLOPS/datascienceproject/mlruns/0/ba6823f487db4f2d9039ef4239d00a14/artifacts
+end_time: 1757191832686
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba6823f487db4f2d9039ef4239d00a14
+run_name: sedate-fox-927
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757191818023
+status: 3
+tags: []
+user_id: Admin

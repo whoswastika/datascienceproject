@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/Admin/OneDrive/Desktop/MLOPS/datascienceproject/mlruns/0/models/m-ffb1a65e61fe486b9dea3c4840384285/artifacts
+creation_timestamp: 1757193689020
+experiment_id: '0'
+last_updated_timestamp: 1757193695447
+model_id: m-ffb1a65e61fe486b9dea3c4840384285
+model_type: null
+name: model
+source_run_id: 878753f308294f5c8da3934ee7d7906f
+status: 2
+status_message: null
